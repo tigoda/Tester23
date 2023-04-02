@@ -5,7 +5,7 @@ import java.util.GregorianCalendar;
 import java.util.Scanner;
 
 
-public class nw1_3 {
+public class hw1_3 {
     public static void main(String[] args) {
 //        В консоли запросить имя пользователя. В зависимости от текущего времени, вывести приветствие вида:
 //        "Доброе утро, <Имя>!", если время от 05:00 до 11:59
